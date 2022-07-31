@@ -1,24 +1,9 @@
-[   
 {
-
-        "label1": "Home",
-        "desc1": "Home 1111111111",
-    },
-    
-    {
-        "label2": "Contact",
-          "desc2": "Home 22222",
-    
-    },
-    
-    {
-        "label3": "About",
-        "desc3": "Home 3333333333",
-    },
-    
-    {
-        "label3": "Images",
-         "desc4": "Home 44444444444",
-        
-    }
-]
+  "title": "Rainul's Blog",
+  "description": "Fetch Many mobile apps need to load resources from a remote URL. You may want to make a POST request to a REST API, or you may need to fetch a chunk of static content from another server. from Rainul",
+  "testme": [
+    { "id": "1", "title": "apps need to load resources from" },
+    { "id": "2", "title": "mote URL. You may want to make a P" },
+    { "id": "3", "title2": "REST API, or you may need" }
+  ]
+}
