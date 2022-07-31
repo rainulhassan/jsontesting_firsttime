@@ -1,9 +1,41 @@
-{
-  "title": "Rainul's Blog",
-  "description": "Fetch Many mobile apps need to load resources from a remote URL. You may want to make a POST request to a REST API, or you may need to fetch a chunk of static content from another server. from Rainul",
-  "testme": [
-    { "id": "1", "title": "apps need to load resources from" },
-    { "id": "2", "title": "mote URL. You may want to make a P" },
-    { "id": "3", "title2": "REST API, or you may need" }
-  ]
-}
+let data = [
+  {
+    cell_name: "112185",
+    id: "000000005",
+    pallets: [
+      {
+        id: "000000016",
+        items: [
+          {
+            product_info: {
+              name: "first product name",
+              unit_info: {
+                name: "box"
+              }
+            },
+            count: 100
+          },
+          {
+            product_info: {
+              name: "second product name",
+              unit_info: {
+                name: "box"
+              }
+            },
+            count: 23
+          },
+          {
+            product_info: {
+              name: "third product name",
+              unit_info: {
+                name: "box"
+              }
+            },
+            count: 15
+          }
+        ]
+      }
+    ]
+  }
+];
+let items = data[0].pallets[0].items;
