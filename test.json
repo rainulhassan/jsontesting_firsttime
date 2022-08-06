@@ -1,41 +1,24 @@
-let data = [
-  {
-    cell_name: "112185",
-    id: "000000005",
-    pallets: [
-      {
-        id: "000000016",
-        items: [
-          {
-            product_info: {
-              name: "first product name",
-              unit_info: {
-                name: "box"
-              }
-            },
-            count: 100
-          },
-          {
-            product_info: {
-              name: "second product name",
-              unit_info: {
-                name: "box"
-              }
-            },
-            count: 23
-          },
-          {
-            product_info: {
-              name: "third product name",
-              unit_info: {
-                name: "box"
-              }
-            },
-            count: 15
-          }
-        ]
-      }
-    ]
-  }
-];
-let items = data[0].pallets[0].items;
+items: [
+    {
+
+        "title": "Home11",
+        "Description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available."
+    },
+    
+    {
+         "title": "Home22",
+        "Description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy
+    
+    },
+    
+    {
+          "title": "Home33",
+        "Description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy
+    },
+    
+    {
+         "title": "Home44",
+        "Description": "In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy
+        
+    }
+]
