@@ -28,7 +28,7 @@
     { "id": "5",
       "title": "Star Wars",
        "releaseYear": "In the next section, you will learn how to render data when the user clicks a button."
- },
+ }
 
   ]
 }
