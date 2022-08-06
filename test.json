@@ -5,23 +5,17 @@
     { "id": "1",
       "title": "Star Wars",
        "releaseYear": "The Fetch API is the most common method of retrieving data because it comes bundled with React." },
-
-   { "id": "2",
+{ "id": "2",
       "title": "Star Wars",
        "releaseYear": "The Fetch API is the most common method of retrieving data because it comes bundled with React." },
-
-
-   { "id": "3",
+ { "id": "3",
       "title": "Star Wars",
        "releaseYear": "The Fetch API is the most common method of retrieving data because it comes bundled with React." },
-
-   { "id": "4",
+ { "id": "4",
       "title": "Star Wars",
        "releaseYear": "The Fetch API is the most common method of retrieving data because it comes bundled with React." },
-
-   { "id": "5",
+{ "id": "5",
       "title": "Star Wars",
        "releaseYear": "The Fetch API is the most common method of retrieving data because it comes bundled with React." }
-
-  ]
+]
 }
